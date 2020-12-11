@@ -224,6 +224,54 @@ export const russianLetters = [
     value: ',',
   },
   {
+    id: 58,
+    value: ':',
+  },
+  {
+    id: 59,
+    value: ';',
+  },
+  {
+    id: 124,
+    value: '|',
+  },
+  {
+    id: 62,
+    value: '>',
+  },
+  {
+    id: 60,
+    value: '<',
+  },
+  {
+    id: 47,
+    value: '/',
+  },
+  {
+    id: 41,
+    value: ')',
+  },
+  {
+    id: 40,
+    value: '(',
+  },
+  {
+    id: 123,
+    value: '{',
+  },
+  {
+    id: 125,
+    value: '}',
+  },
+  {
+    id: 43,
+    value: '+',
+  },
+  {
+    id: 61,
+    value: '=',
+  },
+  {
     id: 32,
     value: ' ',
   },
