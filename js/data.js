@@ -1,4 +1,4 @@
-const russianLetters = [
+export const russianLetters = [
   {
     id: 119,
     value: 'в',
